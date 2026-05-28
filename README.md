@@ -56,7 +56,37 @@ All 6 charts will be saved as PNGs in the `output/` folder.
 | Mission Timeline | Connecting budget patterns to real ISRO milestones |
 | Summary Dashboard | Key metrics at a glance |
 
----
+## 🖼️ Visualizations
+
+
+
+![Budget Trend](output/01_budget_trend.png)
+
+
+
+
+![YoY Growth](output/02_yoy_growth.png)
+
+
+
+
+![GDP Share](output/03_gdp_share.png)
+
+
+
+
+![Nominal vs Real](output/04_nominal_vs_real.png)
+
+
+
+
+![Mission Timeline](output/05_mission_timeline.png)
+
+
+
+
+![Summary Dashboard](output/06_summary_dashboard.png)
+
 
 ## 🧠 How to Approach ANY Budget/Data Analysis Project
 
