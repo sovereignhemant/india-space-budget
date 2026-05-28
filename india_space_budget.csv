@@ -1,0 +1,17 @@
+fiscal_year,start_year,budget_estimate_crores,revised_estimate_crores,gdp_trillion_inr,cpi_index,key_mission
+2010-11,2010,5778,5400,77.95,88,GSLV-D3 flight test
+2011-12,2011,6626,5800,87.36,96,Megha-Tropiques (climate satellite)
+2012-13,2012,6715,6200,99.44,106,RISAT-1 (radar imaging)
+2013-14,2013,5615,5172,112.34,117,Mars Orbiter Mission (Mangalyaan) launch
+2014-15,2014,7238,5799,124.68,124,Mangalyaan enters Mars orbit — first attempt success
+2015-16,2015,7297,6959,137.72,131,Astrosat (first Indian astronomy observatory)
+2016-17,2016,7509,7509,153.62,137,PSLV-C34 — record 20 satellites in single launch
+2017-18,2017,9093,8790,170.95,142,PSLV-C37 — world record 104 satellites in single launch
+2018-19,2018,11200,10783,188.87,147,GSLV Mk III-D2 / Gaganyaan programme announced
+2019-20,2019,12473,11901,200.75,157,Chandrayaan-2 (orbiter + lander)
+2020-21,2020,13479,9982,198.01,167,COVID-19 impact / EOS-01 (earth observation)
+2021-22,2021,13949,12795,236.65,177,PSLV-C51 (Amazonia-1) / IN-SPACe established
+2022-23,2022,12544,11669,272.41,189,PSLV-C53 / OneWeb satellites / SSLV maiden flight
+2023-24,2023,12544,12544,295.36,199,Chandrayaan-3 (Moon landing) / Aditya-L1 (solar)
+2024-25,2024,13043,12800,326.37,209,XPoSat / NISAR (NASA-ISRO) / Gaganyaan tests
+2025-26,2025,13416,13416,357.00,218,NISAR operations / Gaganyaan uncrewed flights
